@@ -83,12 +83,6 @@ int main()
          cout << endl;
          type("Transfering...");
     }
-    /*else
-    {
-        transfer = false;
-        type("Please answer either 'Yes' or 'No'.");
-        cout << endl;
-    }   */
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

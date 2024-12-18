@@ -9,8 +9,11 @@ According to industry estimates, approximately 60% of tech support cases are sol
 By automating this process, this bot can:
 
 Decrease call volumes for tech support teams.
+
 Free up resources for more complex issues.
+
 Improve overall customer satisfaction.
+
 How It Works
 The program:
 

@@ -15,16 +15,18 @@ Free up resources for more complex issues.
 Improve overall customer satisfaction.
 
 How It Works
-The program:
 
+The program:
 Asks the user to describe their issue.
 Checks if the user has restarted their device.
 Loops until the user confirms they’ve restarted.
 Escalates the issue (simulated) if a restart does not solve the problem.
+
 Features
 Typewriter Effect: Mimics a more natural interaction, making the bot feel less robotic.
 Input Validation: Ensures responses are clear and actionable (e.g., "Yes" or "No").
 Simple Logic: Keeps the process user-friendly while effectively guiding the user.
+
 Usage
 Compile and run the program in a C++ environment.
 Follow the bot's prompts to simulate a tech support scenario.
